@@ -1,0 +1,10 @@
+package com.learning;
+
+public class Welcome {
+
+	public static void main(String[] args) {
+		System.out.println("Welcome to first Java program");
+
+	}
+
+}
